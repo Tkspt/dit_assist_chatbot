@@ -19,4 +19,4 @@
   pip install langchain transformers chromadb huggingface-hub accelerate bs4
 
 ### Demo 
-![Mistral](./image1.png)
+![Mistral](./image1.jpg)
