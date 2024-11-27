@@ -16,7 +16,7 @@
 - **Python 3.8+ requis**
 - Installer les dépendances avec la commande suivante :
   ```bash
- pip install -r requirements.txt
+     pip install -r requirements.txt
 
 ### Demo 
 ![Mistral](./image1.jpg)
