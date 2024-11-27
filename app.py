@@ -12,9 +12,10 @@ def generate_response(prompt):
 interface = gr.Interface(
     fn=generate_response,
     inputs=gr.Textbox(label="Posez une question sur les formations au DIT"),
-    outputs=gr.Textbox(label="Réponse d'Aida"),
-    title="Aida - Agent conversationnel du DIT"
+    outputs=gr.Textbox(label=""),
+    title="Agent conversationnel du DIT"
 )
 
+# Lancer l'interface
 if __name__ == "__main__":
     interface.launch()
