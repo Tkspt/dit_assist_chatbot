@@ -1,0 +1,9 @@
+langchain_community
+beautifulsoup4
+lxml
+langchain-text-splitters
+langchain_huggingface
+transformers[sentencepiece]
+langchain_openai
+langchain_text_splitters
+chromadb

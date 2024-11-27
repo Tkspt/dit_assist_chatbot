@@ -1,0 +1,6 @@
+langchain_community
+beautifulsoup4
+lxml
+langchain-text-splitters
+langchain_huggingface
+transformers[sentencepiece]
